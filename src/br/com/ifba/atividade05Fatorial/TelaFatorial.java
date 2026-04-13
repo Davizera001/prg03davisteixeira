@@ -2,8 +2,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package br.com.ifba.atividadeFatorial05;
-import br.com.ifba.atividadeFatorial05.Fatorial;
+package br.com.ifba.atividade05Fatorial;
+import br.com.ifba.atividade05Fatorial.Fatorial;
 /**
  *
  * @author Davi

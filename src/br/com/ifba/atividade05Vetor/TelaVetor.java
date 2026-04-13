@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package br.com.ifba.atividadeVetor05;
+package br.com.ifba.atividade05Vetor;
 import java.util.Arrays;
 import javax.swing.DefaultListModel;
 
